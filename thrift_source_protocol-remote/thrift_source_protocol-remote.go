@@ -7,7 +7,7 @@ import (
 	"flag"
 	"git.iflytek.com/sqjian/flume"
 	"fmt"
-	"git.apache.org/thrift.git/lib/go/thrift"
+	"git.iflytek.com/sqjian/thrift"
 	"math"
 	"net"
 	"net/url"
