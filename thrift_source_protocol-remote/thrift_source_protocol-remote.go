@@ -5,7 +5,7 @@ package main
 
 import (
 	"flag"
-	"flume"
+	"git.iflytek.com/sqjian/flume"
 	"fmt"
 	"git.apache.org/thrift.git/lib/go/thrift"
 	"math"
