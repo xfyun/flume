@@ -6,7 +6,7 @@ package flume
 import (
 	"bytes"
 	"fmt"
-	"git.iflytek.com/sqjian/thrift"
+	"git.iflytek.com/AIaaS/thrift"
 )
 
 // (needed to ensure safety because of naive import list construction.)
