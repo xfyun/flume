@@ -5,9 +5,9 @@ package main
 
 import (
 	"flag"
-	"git.iflytek.com/AIaaS/flume"
 	"fmt"
 	"git.iflytek.com/AIaaS/thrift"
+	"github.com/xfyun/flume"
 	"math"
 	"net"
 	"net/url"

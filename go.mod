@@ -1,4 +1,4 @@
-module git.iflytek.com/AIaaS/flume
+module github.com/xfyun/flume
 
 go 1.16
 
