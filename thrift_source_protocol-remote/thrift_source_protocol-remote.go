@@ -6,7 +6,7 @@ package main
 import (
 	"flag"
 	"fmt"
-	"git.iflytek.com/AIaaS/thrift"
+	"github.com/xfyun/thrift"
 	"github.com/xfyun/flume"
 	"math"
 	"net"
